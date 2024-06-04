@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-warfarin---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-110mg---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-eliqui---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-apixaban---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-edoxaban---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-lixiana---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-rivaroxaban---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-tablet---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-150mg---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-xarelto---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-marevan---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-phenindione---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-500microgram---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-pradaxa---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-anticoagulant-medication-etexilate---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
